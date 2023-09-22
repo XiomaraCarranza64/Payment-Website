@@ -13,7 +13,7 @@ To run this project follow the next steps
 Node js  (https://github.com/nvm-sh/nvm)
 
 ### Getting starting
-- From your root directory access the next file path from your windows terminal 
+- From windows terminal access the root directory and type the next file path  
 ```
 cd .\Frontend\payment-frontend\
 ```
@@ -22,7 +22,7 @@ cd .\Frontend\payment-frontend\
 npm i
 npm run start 
 ```
-- If everything went well , the client should be runnig in localhost:3000
+- If everything went well , the client should be running in localhost:3000
 
   Happy Hacking :)
 
@@ -33,7 +33,7 @@ Java 18.0.2.1 or above
 
 ### Getting starting
 
-- From your root directory access the next file path from your windows terminal 
+- From windows terminal access the root directory and type the next file path  
 ```
 cd .\Backend\paymet-backend\
 ```
