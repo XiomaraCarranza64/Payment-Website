@@ -14,6 +14,10 @@ module.exports = {
       fontFamily:{
         'primary': ['Inter'],
       },
+
+      fontSize: {
+        xss: '0.60rem',
+      }
     },
   },
 
