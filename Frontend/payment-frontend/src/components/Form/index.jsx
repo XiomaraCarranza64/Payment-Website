@@ -137,7 +137,7 @@ const Form = () => {
                 CVV
               </label>
               <input
-                className="rounded-lg h-8 border w-full bg-secondary px-5  focus:outline-fourth"
+                className="rounded-lg h-8 border w-full bg-secondary px-2 md:px-5  focus:outline-fourth"
                 type="text"
                 value={cvv}
                 onChange={(e) => setCvv(e.target.value)}
